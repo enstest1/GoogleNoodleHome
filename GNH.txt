@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<head>
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="chrome-extension://pkkjjapmlcncipeecdmlhaipahfdphkd/inpage/index.js" id="gme-wallet-extension" data-extension-id="pkkjjapmlcncipeecdmlhaipahfdphkd"></script><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Album example for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="album.css" rel="stylesheet">
+  <script charset="utf-8" src="https://platform.twitter.com/js/horizon_timeline.4836f7a62ef55f5880337b3b6602854f.js"></script></head>
+
+  <body>
+
+    <header>
+      <div class="collapse bg-dark" id="navbarHeader">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-8 col-md-7 py-4">
+              <h4 class="text-white">About</h4>
+              <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
+            </div>
+            <div class="col-sm-4 offset-md-1 py-4">
+              <h4 class="text-white">Contact</h4>
+              <ul class="list-unstyled">
+                <li><a href="#" class="text-white">Follow on Twitter</a></li>
+                <li><a href="#" class="text-white">Like on Facebook</a></li>
+                <li><a href="#" class="text-white">Email me</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+            <strong>Album</strong>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon" style="float: none;"></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div><main role="main">
+
+      <section class="jumbotron text-center" style="background-color: rgb(245, 245, 245); float: none; text-decoration-color: rgb(255, 255, 255);">
+        <div class="container">
+          <h1 class="jumbotron-heading">GOOGLENOODLE.ETH</h1>
+          <p class="lead text-muted">Any Noodle&nbsp; &nbsp; &nbsp; Any Where&nbsp; &nbsp; &nbsp; Any Time</p>
+          <p>
+            <a href="#" class="btn my-2 btn-outline-warning disabled">Order</a>
+            <a href="#" class="btn btn-secondary my-2 btn-outline-warning">Login</a>
+          </p>
+        </div>
+      <div class="btn-group" role="group" aria-label="Basic example" style=""> </div><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div></section>
+
+      <div class="album py-5 bg-light" style="background-color: rgb(234, 235, 236);">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" style="height: 325px; width: 347px; display: block; min-width: 0px; min-height: 0px;" src="https://spring-dust-0179.on.fleek.co/HomemadeLin.jpg" data-holder-rendered="true">
+                <div class="card-body">
+                  <p class="card-text">The finest Linguini sourced from the heart of Italy. Made with 100% spirulina flower and grandmas tears.&nbsp;</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://young-wood-6638.on.fleek.co/HomemadePastaColored.jpg" data-holder-rendered="true" style="height: 325px; width: 348px; display: block; min-height: 0px; min-width: 0px;">
+                <div class="card-body">
+                  <p class="card-text">Want to impress the in-laws? Just say you slaved over this for hours. Garneted to impress, 100% of the time 80% of the time.&nbsp;</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://jolly-disk-8447.on.fleek.co/Como-hacer-Garganelli-Home.jpg" data-holder-rendered="true" style="height: 325px; width: 348px; display: block; min-width: 0px; min-height: 0px;">
+                <div class="card-body">
+                  <p class="card-text" style="float: none; text-align: center;">Rigatoni...</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://withered-sea-0123.on.fleek.co/ChefBoyared.jpg" data-holder-rendered="true" style="height: 237px; width: 256px; display: block; min-width: 0px; margin-right: 0px; max-width: 263px; float: none; text-align: center; padding-top: 4px; padding-right: 1px; padding-bottom: 4px; border-width: 0px; max-height: 237px; opacity: 1; position: relative; top: auto; left: 48px; bottom: -14px;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://little-thunder-5584.on.fleek.co/ChowmeinHons.jpg" data-holder-rendered="true" style="height: 237px; width: 328px; display: block; inset: 10px -17px -4px 10px; position: relative; min-width: 236px;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://cool-salad-1515.on.fleek.co/PringlesRamen.jpg" data-holder-rendered="true" style="height: 250px; width: 349px; display: block; top: 0px; left: 0px; position: relative;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://floral-surf-7563.on.fleek.co/RiceNoodleDelux.jpeg" data-holder-rendered="true" style="height: 466px; width: 347px; display: block;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://purple-bonus-3827.on.fleek.co/RiceNoodleViet.jpg" data-holder-rendered="true" style="height: 298px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="https://cool-pond-4987.on.fleek.co/homemade-lasagna-noodles-on-a-floured-baking-sheet.jpg" data-holder-rendered="true" style="height: 466px; width: 100%; display: block;">
+                <div class="card-body">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    </div>
+                    <small class="text-muted">9 mins</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="text-muted"><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div>
+      <div class="container"><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div>
+        <div data-component-twitter="" style="top: auto;"><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div><p class="float-right">
+          <a href="#">Back to top</a>
+        </p>
+        <p><div data-component-twitter=""><a class="twitter-timeline" data-dnt="true" data-chrome="nofooter noborders noscrollbar noheader transparent" href="https://twitter.com/twitterapi" data-widget-id="243046062967885824"></a>			<script>window.twttr = (function(d, s, id) {			  var js, fjs = d.getElementsByTagName(s)[0],				t = window.twttr || {};			  if (d.getElementById(id)) return t;			  js = d.createElement(s);			  js.id = id;			  js.src = "https://platform.twitter.com/widgets.js";			  fjs.parentNode.insertBefore(js, fjs);			  t._e = [];			  t.ready = function(f) {				t._e.push(f);			  };			  return t;			}(document, "script", "twitter-wjs"));</script></div>Album example is © Bootstrap, but please download and customize it for yourself!</p>
+        <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="../../js/vendor/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/holderjs@2.9.4/holder.js"></script>
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="466" viewBox="0 0 348 466" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="23" style="font-weight:bold;font-size:23pt;font-family:Arial, Helvetica, Open Sans, sans-serif">Thumbnail</text></svg><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.c4bdc17e77719578b594d5555bee90db.html?origin=https%3A%2F%2Fwww.heavens.tools" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body>
+</html>
